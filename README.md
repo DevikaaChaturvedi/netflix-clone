@@ -1,4 +1,4 @@
-<b>Netflix Clone</b>
+<b>Netflix Clone</b><br>
 <b>Overview</b>
 This is a Netflix clone built using HTML and CSS. The project aims to replicate the look and feel of Netflix's user interface with a focus on visual design and layout, showcasing how to create a streaming service-like experience using just front-end technologies.
 
